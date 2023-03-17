@@ -29,5 +29,7 @@
 
             for(int i = 1 ; i < arr.length ; i ++)
                 System.out.print(arr[i] + " ");
+            for(int j = 1 ; j < arr.length ; j ++)
+                System.out.println("123123");
         }
     }
