@@ -26,7 +26,7 @@
                     arr[end-mid+2+j] = temp[j];
 
             }
-
+            System.out.println("aaaaaaaaaaaaaaaaaaa");
             for(int i = 1 ; i < arr.length ; i ++)
                 System.out.print(arr[i] + " ");
             for(int j = 1 ; j < arr.length ; j ++)
