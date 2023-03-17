@@ -31,5 +31,7 @@
                 System.out.print(arr[i] + " ");
             for(int j = 1 ; j < arr.length ; j ++)
                 System.out.println("123123");
+
+            System.out.println("Hello Test");
         }
     }
