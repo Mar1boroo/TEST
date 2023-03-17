@@ -15,7 +15,7 @@
             {
                 int begin = sc.nextInt() ; int end = sc.nextInt(); int mid = sc.nextInt();
                 int[] temp = new int[mid-begin];
-                int[] temp2 = new int[end-mid+1]
+                int[] temp2 = new int[end-mid+1];
                 for(int j = 0 ; j < temp.length ; j++)
                     temp[j] = arr[begin+j];
 
